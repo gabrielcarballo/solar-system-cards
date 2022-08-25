@@ -14,7 +14,7 @@ class Missions extends React.Component {
             <MissionCard
               name={ e.name }
               year={ e.year }
-              country={ e.year }
+              country={ e.country }
               destination={ e.destination }
               key={ e.name }
             />
